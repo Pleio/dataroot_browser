@@ -1,0 +1,7 @@
+{
+    "name": "coldtrick/dataroot_browser",
+    "type": "elgg-plugin",
+    "require": {
+        "composer/installers": "~1.0"
+    }
+}
